@@ -1,14 +1,14 @@
 // The git repository at eclpise.org that contains the slideshow example.
 // Use the 'git:' prefix to clone a git repository.
-
+ 
 //Only dependencies not the ProjectRoot ->duplicate target exception
-git:https://github.com/FunThomas424242/cnf.git
-git:https://github.com/FunThomas424242/org.example.api.git
-git:https://github.com/FunThomas424242/org.example.impls.git
+git:https://github.com/FunThomas424242/com.github.funthomas424242.gedcoml.git
 
 // BuildBoost Extensions
-//git:https://github.com/DevBoost/BuildBoost.git!Extensions/JUnit/
-//git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/JUnit/
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/EMF/
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/EMFText/
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
 
 // Eclipse Platform
 get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.7.2-201202080800/eclipse-platform-3.7.2-win32-x86_64.zip
