@@ -1,4 +1,4 @@
-org.example.build
+ghproject.builds
 =================
 
 GEDCOML Build via BuildBoost 
