@@ -25,14 +25,14 @@ git:https://github.com/DevBoost/EMFText.git!Core/License/
 //git:https://github.com/DevBoost/BuildBoost.git!Extensions/WebAppPackaging/
 
 // Local BuildBoost Extensions
-git:\Users\SchubertT006\git\BuildBoost!Extensions/JUnit/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/EMF/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/EMFText/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/EMFTextExamples/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/Maven/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/Product/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/UpdateSite/
-git:\Users\SchubertT006\git\BuildBoost!Extensions/WebAppPackaging/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/JUnit/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/EMF/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/EMFText/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/EMFTextExamples/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/Maven/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/Product/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/UpdateSite/
+git:file:///Users/SchubertT006/git/BuildBoost!Extensions/WebAppPackaging/
 
 
 // Eclipse Platform
