@@ -2,4 +2,4 @@ before_script:
   - wget -N http://buildboost.org/build.xml
   
 language: java
-script: "ant -DrootRepository='git:https://github.com/FunThomas424242/org.example.build.git'"
+script: "ant -DrootRepository='git:https://github.com/FunThomas424242/ghproject.builds.git'"
