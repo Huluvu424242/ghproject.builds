@@ -17,10 +17,10 @@ git:https://github.com/DevBoost/BuildBoost.git!Extensions/JUnit/
 git:https://github.com/DevBoost/BuildBoost.git!Extensions/EMF/
 git:https://github.com/DevBoost/BuildBoost.git!Extensions/EMFText/
 git:https://github.com/DevBoost/BuildBoost.git!Extensions/EMFTextExamples/
-git:https://github.com/DevBoost/BuildBoost.git!Extensions/Maven/
-git:https://github.com/DevBoost/BuildBoost.git!Extensions/Product/
-git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
-git:https://github.com/DevBoost/BuildBoost.git!Extensions/WebAppPackaging/
+//git:https://github.com/DevBoost/BuildBoost.git!Extensions/Maven/
+//git:https://github.com/DevBoost/BuildBoost.git!Extensions/Product/
+//git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
+//git:https://github.com/DevBoost/BuildBoost.git!Extensions/WebAppPackaging/
 
 // Local BuildBoost Extensions
 //git:file:///c:/Users/SchubertT006/git/BuildBoost!Extensions/JUnit/
