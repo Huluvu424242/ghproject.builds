@@ -1,5 +1,6 @@
 before_script:
   - wget -N http://buildboost.org/build.xml
+  - gem install jekyll
   
 language: java
 script: "ant -DrootRepository='git:https://github.com/FunThomas424242/ghproject.builds.git'"
